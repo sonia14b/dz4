@@ -1,0 +1,44 @@
+.title {
+    color: red;
+    font-size: 40px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.text {
+    color: green;
+    font-size: 24px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.img {
+    height: 200px;
+    border: 7px solid darkcyan;
+} 
+
+.one {
+    color: blueviolet;
+    font-size: 30px;
+}
+
+.img2 {
+    height: 180px;
+    border: 6px solid magenta;
+}
+
+span {
+    color: fuchsia;
+    font-size: 25px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.li {
+    color: hotpink;
+    font-size: 15px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.ol {
+    color: lawngreen;
+    font-size: 20px;
+    font-family: 'Roboto Slab', serif;
+}
